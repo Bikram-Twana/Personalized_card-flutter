@@ -8,4 +8,5 @@ Font used: Lobste-Regular, Pacifico-Regular, Source Sans Pro
 
 
 This is how app looks like:
+
 ![miapp](https://user-images.githubusercontent.com/50953026/111799199-e6c40000-88f2-11eb-96a6-e70be17fdfc5.PNG)
